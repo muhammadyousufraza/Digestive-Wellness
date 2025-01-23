@@ -1,0 +1,3 @@
+Jan 22 2025 09:18:17
+{"type":8192,"message":"Creation of dynamic property Custom_Widget_Area_Admin::$table_name is deprecated","file":"C:\\Users\\REHMAN COMPUTER\\Local Sites\\digestivewellness\\app\\public\\wp-content\\plugins\\wp-custom-widget-area\\admin\\class-wp-custom-widget-area-admin.php","line":63}
+

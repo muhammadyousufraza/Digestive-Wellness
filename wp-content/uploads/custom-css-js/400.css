@@ -1,0 +1,40 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+input#mc-embedded-subscribe {
+    background: #7f1816 !important;
+    padding: 20px 40px !important;
+    line-height: 0 !important;
+}
+
+div#et-main-area a {
+    color: #167d7f !important;
+}
+div#et_top_search {
+    display: none;
+}
+header#main-header {
+    padding-bottom: 5px;
+}
+div#second-section a {
+    color: #000 !important;
+}
+div.wpcf7-response-output {
+    margin: 88px 0px 0px 0px !important;
+    color: #FFF !important;
+    width: 100% !important;
+}
+div#footer-info a {
+    color: #FFF !important;
+}
+#et_search_icon:hover, #top-menu li.current-menu-ancestor>a, #top-menu li.current-menu-item>a, .bottom-nav li.current-menu-item>a, .comment-reply-link, .entry-summary p.price ins, .et-social-icon a:hover, .et_password_protected_form .et_submit_button, .footer-widget h4, .form-submit .et_pb_button, .mobile_menu_bar:after, .mobile_menu_bar:before, .nav-single a, .posted_in a, .woocommerce #content div.product p.price, .woocommerce #content div.product span.price, .woocommerce #content input.button, .woocommerce #content input.button.alt, .woocommerce #content input.button.alt:hover, .woocommerce #content input.button:hover, .woocommerce #respond input#submit, .woocommerce #respond input#submit.alt, .woocommerce #respond input#submit.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce .star-rating span:before, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce a.button.alt:hover, .woocommerce a.button:hover, .woocommerce button.button, .woocommerce button.button.alt, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:hover, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce input.button, .woocommerce input.button.alt, .woocommerce input.button.alt:hover, .woocommerce input.button:hover, .woocommerce-page #content div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page #content input.button, .woocommerce-page #content input.button.alt, .woocommerce-page #content input.button.alt:hover, .woocommerce-page #respond input#submit, .woocommerce-page #respond input#submit.alt, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page .star-rating span:before, .woocommerce-page a.button, .woocommerce-page a.button.alt, .woocommerce-page a.button.alt:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button, .woocommerce-page button.button.alt, .woocommerce-page button.button.alt.disabled, .woocommerce-page button.button.alt.disabled:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page button.button:hover, .woocommerce-page div.product p.price, .woocommerce-page div.product span.price, .woocommerce-page input.button, .woocommerce-page input.button.alt, .woocommerce-page input.button.alt:hover, .woocommerce-page input.button:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current {
+    color: #167d7f !important;
+}
+div#mc_embed_signup {
+    background: transparent !important;
+    color: #FFF !important;
+}
+div#mc_embed_signup_scroll h2 {
+    color: #FFF !important;
+    margin-bottom: -12px;
+}</style>
+<!-- end Simple Custom CSS and JS -->

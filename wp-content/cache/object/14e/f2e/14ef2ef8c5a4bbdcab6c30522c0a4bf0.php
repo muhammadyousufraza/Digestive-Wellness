@@ -1,0 +1,1 @@
+œ§Œf<?php exit; ?>a:1:{s:7:"content";s:202:"a:5:{s:6:"status";s:2:"ok";s:3:"msg";s:62:"No current blocks on this IP address (2602:ff16:5:0:1:27c:0:1)";s:17:"seconds_remaining";i:3600;s:16:"blocked_attempts";s:5:"54139";s:6:"expire";i:1720497400;}";}

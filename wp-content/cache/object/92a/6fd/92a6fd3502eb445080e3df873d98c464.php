@@ -1,0 +1,20 @@
+��g<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:627;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-12-19 19:51:51";s:13:"post_date_gmt";s:19:"2019-12-19 19:51:51";s:12:"post_content";s:2984:"<h1 style="text-align: center;"><span style="color: #167d7f;"><b>Matt Douglas – Gut Naturopath</b></span></h1>
+&nbsp;
+<h3 style="text-align: center;"><span style="color: #ff0000;"><strong>THE DIGESTIVE WELLNESS CLINIC IS CURRENTLY NOT TAKING NEW CLIENTS UNTIL EARLY 2025</strong></span></h3>
+&nbsp;
+
+Hi, my name is Matt Douglas and I have been an accredited Naturopath for over 15 years, specialising in digestive health and the natural treatment of IBS, SIBO and other chronic digestive conditions. I utilise functional gut testing to identify the root causes and imbalances responsible for bloating, constipation, diarhhea, GORD, gas and abdominal pain. For years I found irritable bowel syndrome one of the trickier conditions to treat, no two people shared the same symptom pattern and what worked well for one person, didn’t work so well for another. On top of that, even the experts couldn’t agree on what causes IBS or the best ways to treat it. Confused and frustrated, I dedicated myself to finding the answers to the mystery of IBS. What followed was two years of research and fine-tuning of diets and protocols, which now form the foundation of the IBS Treatment Programme. I established the Digestive Wellness Clinic to deliver this programme to all IBS sufferers who are sick and tired of their symptoms controlling their lives. My passion is restoring my patients digestive health naturally, and I love guiding people to better lives using natural medicines and nutrition. I take an individualised approach, using detailed client histories and comprehensive laboratory testing to identify the root cause of your symptoms, then determine the best possible course of treatment, using herbal medicines, nutrition, lifestyle, and other behavioral changes to support lasting health and vitality. If you are experiencing bloating, gas, constipation, diarrhea, reflux, abdominal pain know that there is a reason for your symptoms, it just takes the right testing to identify what that is. With the guidance of a knowledgeable and experienced practitioner it is possible to resolve your symptoms and start enjoying your life again.
+<h2 style="text-align: center;"><span style="color: #167d7f;"><b>What you’ll receive when you work with me:</b></span></h2>
+&nbsp;
+<ul>
+ 	<li>Free 15-minute initial health consultation</li>
+ 	<li>Initial 60-minute case review consultation</li>
+ 	<li>Referral for relevant functional tests.</li>
+ 	<li>Interpretation and review of test results</li>
+ 	<li>Personalised treatment plan, eating plan and lifestyle advice</li>
+ 	<li>Follow-up consultations to track progress and adjust treatments</li>
+ 	<li>Email support between follow-up appointments</li>
+ 	<li>The knowledge gained from over 15 years treating hundreds of patients</li>
+</ul>
+&nbsp;
+<h3 style="text-align: center;"><span style="color: #ff0000;"><strong>THE DIGESTIVE WELLNESS CLINIC IS CURRENTLY NOT TAKING NEW CLIENTS UNTIL EARLY 2025</strong></span></h3>";s:10:"post_title";s:5:"About";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:23:"about-sydney-naturopath";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2024-03-07 13:37:13";s:17:"post_modified_gmt";s:19:"2024-03-07 02:37:13";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:49:"https://www.digestivewellness.com.au/?page_id=627";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

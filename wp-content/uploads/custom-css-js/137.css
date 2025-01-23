@@ -1,0 +1,101 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+p.post-meta {
+    display: none;
+}
+
+#mc_embed_signup #mce-success-response:before {
+       content: 'Thank you, check your inbox';
+    position: absolute;
+    font-size: 16px;
+    bottom: -18px;
+    left: 14px;
+}
+#mc_embed_signup #mce-success-response {
+    font-size: 0px;
+}
+
+input#mc-embedded-subscribe {
+    font-weight: bold !important;
+}
+#ico-cont-id .et_pb_module.et_pb_text.et_pb_text_4.et_pb_bg_layout_light.et_pb_text_align_left {
+    background-position: top 12px left;
+}
+ul.list img {
+    width: 16px;
+    float: left;
+    margin: 5px 6px 0px 0;
+    position: absolute;
+    left: 0px;
+}
+.why-prog ul li img {
+    width: 16px;
+    float: left;
+    margin: 5px 6px 0 0;
+}
+#thired-sec .owl-carousel .owl-item p, #thired-sec .owl-carousel .owl-item h4 {
+    font-family: 'Raleway',Helvetica,Arial,Lucida,sans-serif;
+}
+/**************** Contact Page *************************/
+.cont-form .et_contact_bottom_container {
+    float: left;
+}
+.ico-cont .et_pb_column_3 {
+    width: 26% !important;
+}
+.ico-cont .et_pb_column_2 {
+    width: 24% !important;
+}
+/**************** Contact Page End *************************/
+
+/**************** Pricing Page *************************/
+.why-prog ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.why-prog ul li {
+   
+}
+/**************** pricing Page End *************************/
+
+/**************** Testimonials Page *************************/
+.testi-cli p {
+    padding-bottom: 0;
+  	font-family: 'Raleway',Helvetica,Arial,Lucida,sans-serif !important;
+}
+.testi-cli ul {
+    padding-top: 1em;
+  	font-family: 'Raleway',Helvetica,Arial,Lucida,sans-serif !important;
+}
+.testi-cli .et_pb_row:last-child .et_pb_with_border {
+    border: none;
+    padding-left: 0 !important;
+}
+.testi-cli .et_pb_row:first-child {
+    padding-bottom: 15px;
+}
+.testi-cli .et_pb_row:first-child .et_pb_module p:last-child {
+    position: relative;
+    padding-bottom: 40px;
+}
+.testi-cli .et_pb_row:first-child .et_pb_module p:last-child:after {
+    position: absolute;
+    content: '';
+    background: url(https://www.digestivewellness.com.au/wp-content/uploads/2019/11/test-sep-again.png) no-repeat;
+    bottom: 11px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 169px;
+    height: 17px;
+}
+.testi-cli h2 {
+    font-size: 33px !important;
+    font-family: 'Raleway',Helvetica,Arial,Lucida,sans-serif !important;
+}
+
+/**************** Testimonials Page End *************************/
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->

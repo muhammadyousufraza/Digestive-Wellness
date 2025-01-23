@@ -1,0 +1,1 @@
+zažf<?php exit; ?>a:1:{s:7:"content";a:5:{s:6:"status";s:2:"ok";s:3:"msg";s:68:"No current blocks on this IP address (2600:3c02::f03c:93ff:feb0:7b8)";s:17:"seconds_remaining";i:3600;s:16:"blocked_attempts";s:5:"54469";s:6:"expire";i:1721655674;}}

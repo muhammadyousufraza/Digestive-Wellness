@@ -1,0 +1,6 @@
+[2025-01-16 16:44:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-01-16 17:00:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-01-16 17:23:39 : INFO] - Cache for URL: https://digestivewellness.com.au/staging/about-sydney-naturopath/ has been purged, triggered by action: wp_trash_post 
+[2025-01-16 17:23:39 : INFO] - Cache for URL: https://digestivewellness.com.au/staging/?page_id=627 has been purged, triggered by action: save_post 
+[2025-01-16 17:24:23 : INFO] - Cache for URL: https://digestivewellness.com.au/staging/about-sydney-naturopath/ has been purged, triggered by action: save_post 
+[2025-01-16 17:24:48 : INFO] - Cache for URL: https://digestivewellness.com.au/staging/about-sydney-naturopat/ has been purged, triggered by action: save_post 

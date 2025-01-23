@@ -1,0 +1,1 @@
+(½g<?php exit; ?>a:1:{s:7:"content";a:2:{s:26:"_et_pb_built_for_post_type";a:1:{i:0;s:4:"page";}s:30:"_et_pb_excluded_global_options";a:1:{i:0;s:2:"[]";}}}

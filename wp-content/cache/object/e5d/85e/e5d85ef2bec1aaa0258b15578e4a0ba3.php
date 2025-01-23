@@ -1,0 +1,1 @@
+¸œg<?php exit; ?>a:1:{s:7:"content";s:54:"/home/digestiv/public_html/wp-content/themes/Divi/core";}

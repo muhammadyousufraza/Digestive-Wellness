@@ -1,0 +1,407 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media screen and (max-width: 1920px) {
+.et_pb_gutters3 .footer-widget:nth-child(2) .textwidget{
+	margin-left: 35px;
+}
+}
+@media screen and (max-width: 1280px) {
+.et_pb_gutters3 .footer-widget:nth-child(2) .textwidget{
+	margin-left: 30px;
+}
+}
+@media screen and (max-width: 1024px) {
+#logo {
+    max-height: 125%;
+}
+#top-menu li {
+    padding-right: 12px!important;
+}
+#top-menu li:last-child {
+    padding-right: 0 !important;
+}
+.main-head h2 {
+    font-size: 35px !important;
+    padding-bottom: 0;
+}
+.et_pb_gutters3 .footer-widget:nth-child(2) .textwidget {
+    margin-left: 0;
+}
+
+  
+/**************** Testimonials Page Responsive *************************/
+.testi-cli h2 {
+    font-size: 35px !important;
+}
+.testi-cli .et_pb_row:first-child .et_pb_text p {
+    font-size: 20px;
+    line-height: 37px;
+}
+.testi-cli .et_pb_row:first-child .et_pb_module:last-child {
+    padding-top: 0 !important;
+}
+/**************** Testimonials Page Responsive end *************************/   
+  
+/**************** Contact Page Responsive *************************/
+ 
+.ico-cont .et_pb_row {
+    width: 90%;
+}
+.ico-cont .et_pb_module {
+    padding-left: 95px !important;
+  	margin-left: 0 !important;
+}
+#ico-cont-id .et_pb_column {
+    width: 50% !important;
+}
+.ico-cont p {
+    line-height: 23px !important;
+    padding-bottom: 0 !important;
+}
+/**************** Contact Page Responsive end *************************/  
+  
+/**************** Pricing Page Responsive end *************************/ 
+.regular-check h2 {
+    font-size: 27px !important;
+}
+.why-prog h2 {
+    font-size: 26px !important;
+}
+
+/**************** Pricing Page Responsive end *************************/ 
+}
+
+
+@media screen and (max-width: 768px) {
+
+  #ico-cont-id br {
+    display: none;
+}
+div#fourth-sec {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#second-sec-inner ul.list {
+    text-align: center;
+    padding-top: 30px !important;
+}
+#second-sec-inner ul.list li:before {
+    display: none;
+}
+.footer-widget div#text-4 {
+    margin-top: 18px;
+}
+div#text-4 h4.title {
+    margin: unset !important;
+    right: 0 !important;
+    left: 57% !important;
+} 
+.form-custom input, .form-custom input[type="submit"] {
+    float: none !important;
+}
+.form-custom {
+    text-align: center !important;
+    margin: 0 auto !important;
+    margin-top: 50px !important;
+}
+.form-custom input[type="submit"] {
+    width: 60% !important;
+}
+/**************** Testimonials Page Responsive *************************/ 
+.pat-test {
+    padding-top: 0px !important;
+}
+.pat-test h2 {
+    font-size: 30px !important;
+}
+.testi-cli h2 {
+    font-size: 30px !important;
+    padding-bottom: 0;
+}
+.testi-cli .et_pb_row:first-child .et_pb_text p br:first-child {
+    display: none;
+}
+.testi-cli .et_pb_row:first-child .et_pb_text p {
+    font-size: 17px;
+    line-height: 30px;
+}
+.testi-cli {
+    padding-bottom: 20px !important;
+}
+.what-nxt {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.what-nxt .et_pb_row {
+    padding-top: 0;
+}
+/**************** Testimonials Page Responsive end *************************/ 
+  
+/**************** Contact Page Responsive *************************/  
+.ico-cont .et_pb_module {
+    padding-top: 35px!important;
+    padding-bottom: 35px!important;
+}
+.ico-cont .et_pb_column_4 .et_pb_module {
+    padding-top: 17px!important;
+    padding-bottom: 17px!important;
+}
+.ico-cont .et_pb_row {
+    padding: 0;
+}
+.cont-form .et_pb_row {
+    width: 70% !important;
+}
+.et_pb_section_3 {
+    padding-bottom: 0;
+}
+.et_pb_section_3 .et_pb_row_5 {
+    padding-bottom: 0;
+}
+.map-div iframe {
+    height: 280px;
+}
+/**************** Contact Page Responsive end *************************/  
+
+/**************** Pricing Page Responsive *************************/ 
+.heal-prog h2{
+  font-size: 27px !important;
+}
+.price-sec h2 {
+    font-size: 27px !important;
+    padding-bottom: 20px !important;
+}
+.price-sec .et_pb_row {
+    padding: 0;
+}
+.regular-check, .why-prog, #thired-sec {
+    padding: 0 !important;
+}
+ 
+/**************** Pricing Page Responsive end *************************/ 
+
+}
+
+@media screen and (max-width: 425px) {
+  
+ul.top-list {
+    float: none !important;
+    text-align: center;
+}
+ul.top-list li:nth-child(1) {
+    padding: 0 !important;
+}
+ul.top-list li {
+    display: inline-block;
+    padding: 0 0 0 15px !important;
+}
+.footer-widget div#text-4 {
+    margin-top: 0px;
+}
+div#text-2 {
+    text-align: left !important;
+    float: none;
+}
+div#text-2 h4.title {
+    text-align: left !important;
+}
+div#media_image-2 {
+    text-align: left !important;
+}
+/**************** Testimonials Page Responsive *************************/ 
+.main-head h2 {
+    font-size: 26px !important;
+}
+.main-head {
+    padding: 30px 0;
+}
+.pat-test h2 {
+    font-size: 28px !important;
+}
+.testi-cli h2 {
+    font-size: 24px !important;
+}
+.testi-cli .et_pb_row:first-child .et_pb_text p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.testi-cli .et_pb_row:last-child .et_pb_text p {
+    font-size: 14px;
+}
+.what-nxt .et_pb_row {
+    width: 85% !important;
+}
+.what-nxt h2 {
+    font-size: 30px !important;
+    padding-bottom: 0;
+}
+.what-nxt .et_pb_row:first-child {
+    padding-bottom: 20px;
+}
+.what-nxt .et_pb_button_module_wrapper {
+    margin-top: 30px!important;
+}
+/**************** Testimonials Page Responsive end *************************/ 
+
+/**************** Contact Page Responsive *************************/
+.ico-cont {
+    padding: 30px 0;
+}
+  #ico-cont-id .et_pb_column {
+    width: 100% !important;
+}
+.cont-form {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.cont-form h2 {
+    font-size: 25px !important;
+  	padding-bottom:0px;
+}
+.cont-form .et_pb_row:first-child {
+    padding-bottom: 0 !important;
+}
+.et_pb_contact_form_0.et_pb_contact_form_container .input, .et_pb_contact_form_0.et_pb_contact_form_container .input::placeholder, .et_pb_contact_form_0.et_pb_contact_form_container .input[type=checkbox]+label, .et_pb_contact_form_0.et_pb_contact_form_container .input[type=radio]+label{
+  	font-size: 14px !important;
+}
+.cont-form button {
+    font-size: 14px !important;
+}
+.et_pb_section_3 h2, .et_pb_section_4 h2 {
+    font-size: 25px !important;
+    padding-bottom: 0;
+}
+.map-div iframe {
+    height: 210px;
+}
+/**************** Contact Page Responsive end *************************/
+  
+/**************** Pricing Page Responsive end *************************/  
+.heal-prog h2 {
+    font-size: 18px !important;
+    line-height: 37px !important;
+}
+.heal-prog h2 br {
+    display: none;
+}
+.heal-prog .et_pb_row {
+    padding: 0;
+}
+.price-sec h2 {
+    font-size: 27px !important;
+    line-height: 35px !important;
+}
+.regular-check h2, .why-prog h2 {
+    font-size: 23px !important;
+}
+
+/**************** Pricing Page Responsive end *************************/ 
+}
+
+@media screen and (max-width: 375px) {
+/**************** Testimonials Page Responsive *************************/
+.main-head h2 {
+    font-size: 23px !important;
+}
+.main-head {
+    padding: 0px 0;
+}
+.pat-test h2 {
+    font-size: 26px !important;
+}
+.pat-test p {
+    font-size: 14px !important;
+}
+.testi-cli .et_pb_row:first-child .et_pb_text p {
+    font-size: 15px;
+    line-height: 26px;
+}
+.testi-cli h2 {
+    font-size: 21px !important;
+}
+.testi-cli .et_pb_row:first-child {
+    padding-top: 0;
+}
+.testi-cli {
+    padding-bottom: 0px !important;
+}
+.what-nxt .et_pb_row:first-child {
+    padding-bottom: 15px;
+}
+.what-nxt p {
+    font-size: 14px !important;
+    line-height: 25px !important;
+}
+/**************** Testimonials Page Responsive end *************************/
+
+/**************** Contact Page Responsive *************************/
+  
+.et_pb_section_3 h2, .et_pb_section_4 h2 {
+    font-size: 22px !important;
+}
+.cont-form h2 {
+    font-size: 22px !important;
+}
+/**************** Contact Page Responsive end *************************/
+
+/**************** Pricing Page Responsive *************************/ 
+.regular-check h2, .why-prog h2 {
+    font-size: 23px !important;
+}
+.price-sec.et_pb_section_2 h2, .price-sec.et_pb_section_3 h2, .price-sec.et_pb_section_4 h2 {
+    font-size: 20px !important;
+    line-height: 28px !important;
+}
+.heal-prog h2 {
+    font-size: 19px !important;
+    line-height: 29px !important;
+}
+/**************** Pricing Page Responsive end *************************/ 
+}
+
+@media screen and (max-width: 320px) {
+  
+/**************** Testimonials Page Responsive *************************/
+.main-head h2 {
+    font-size: 20px !important;
+}  
+.pat-test h2 {
+    font-size: 23px !important;
+}
+.testi-cli .et_pb_row:first-child {
+    padding-top: 20px !important;
+    padding-bottom: 20px;
+}
+.testi-cli .et_pb_row:last-child .et_pb_with_border {
+    border-left-width: 2px !important;
+    padding-left: 5px!important;
+}
+.testi-cli h2 {
+    font-size: 18px !important;
+}
+/**************** Testimonials Page Responsive end *************************/
+  
+/**************** Contact Page Responsive *************************/
+.ico-cont .et_pb_module {
+    padding-top: 30px!important;
+    padding-bottom: 30px!important;
+}
+/**************** Contact Page Responsive end *************************/
+
+/**************** Pricing Page Responsive *************************/ 
+  
+.heal-prog p, .price-sec p {
+    line-height: 25px;
+    font-size: 14px;
+}
+.regular-check h2, .why-prog h2 {
+    font-size: 17px !important;
+}
+
+  
+/**************** Pricing Page Responsive end *************************/ 
+
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

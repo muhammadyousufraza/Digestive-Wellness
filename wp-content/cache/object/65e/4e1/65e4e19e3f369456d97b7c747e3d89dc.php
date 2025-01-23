@@ -1,0 +1,1 @@
+{UÄf<?php exit; ?>a:1:{s:7:"content";s:199:"a:5:{s:6:"status";s:2:"ok";s:3:"msg";s:59:"No current blocks on this IP address (2001:41d0:800:3050::)";s:17:"seconds_remaining";i:3600;s:16:"blocked_attempts";s:5:"55116";s:6:"expire";i:1724146391;}";}
